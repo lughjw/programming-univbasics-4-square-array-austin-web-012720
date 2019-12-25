@@ -4,6 +4,7 @@ def square_array(array)
   i = 0
   while i < array.size do
     squares << array[i]**2
+    i++
   end
   
   squares
