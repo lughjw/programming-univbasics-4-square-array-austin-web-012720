@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  squares = []
+  for 0..array.size
+    squares << 
 end
